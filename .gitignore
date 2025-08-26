@@ -1,0 +1,5 @@
+# Executable files
+*.o
+*.obj
+
+.vscode/
