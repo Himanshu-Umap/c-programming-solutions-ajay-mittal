@@ -3,7 +3,7 @@ Program 8 | Matrix addition: Add two matrices of order m × n
 */
 
 #include<stdio.h>
-main()
+int main()
 {
     int mat1[10][10], mat2[10][10], resultant[10][10];
     int m, n, row, col;
